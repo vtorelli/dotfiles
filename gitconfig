@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = v.torelli@icloud.com
+	name = Victoria Torelli
